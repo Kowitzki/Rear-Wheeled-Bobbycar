@@ -24,7 +24,7 @@ From factory the Hoverboard Motorcontrollers are locked, so you have to unlock t
 - How To Unlock https://github.com/EmanuelFeru/hoverboard-firmware-hack-FOC/wiki/How-to-Unlock-MCU-Flash
 
 ## Electronics
-Take apart an old XBox360 Controller and get those two potentiometers out of it. Solder them to the Controller like this:
+Take apart an old XBox360 Controller and get those two potentiometers out of it. Solder them to the Controller like larsm did: https://larsm.org/allrad-e-bobby-car/
 
 DO NOT solder 15V to the potentiometers. They will kill your Motorcontroller.
 
@@ -40,6 +40,7 @@ If you want your wood to last longer in the rain i recommend to paint it.
 
 ### Steering
 You really should change the front tires, the original ones have no grip and understeer as hell. Also they have no bearings, which lets them overheat because you are not a kid anymore. I took the ones from Decathlon with 175mm in diameter. Those with a 8mm Screw and a piece of steel pipe (8mm Inner, 10mm Outer) as an adapter to the original wheel carrier work far better.
+If the lowest part of your steering gets loose and the "thread" in the bobbycar wears out, you can screw a small piece of wood to the inside.
 
 
 
@@ -51,6 +52,8 @@ Yeah, you read it right, i built drift tires for this. Fortunately a pipe in Ger
 # Formula-Student-Mini
 Maybe we can establish a formula competition which is about small, extremely low cost and high powered vehicles. At my University we set up some rules. Some are for safety, some are to harmonize cars and some are for fun.
 - Rules https://github.com/Kowitzki/Four-Wheel-Bobbycar/blob/main/Formula%20Student%20Mini%20-%20Rules%20V1.pdf
+
+We have a Telegram Group for the Bobbycars, get in there, maybe someone will help you: https://t.me/FormulaStudentMini
 
 
 
