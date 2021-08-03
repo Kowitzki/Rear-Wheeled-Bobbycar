@@ -38,6 +38,9 @@ There are dxf-files under "Mechanics" for lasercutting. Cutting by Hand is also 
 After cutting, 12mm parts are glued together out of 6mm pieces, then everything is pushed together and tightend by screws.
 If you want your wood to last longer in the rain i recommend to paint it.
 
+### Steering
+You really should change the front tires, the original ones have no grip and understeer as hell. Also they have no bearings, which lets them overheat because you are not a kid anymore. I took the ones from Decathlon with 175mm in diameter. Those with a 8mm Screw and a piece of steel pipe (8mm Inner, 10mm Outer) as an adapter to the original wheel carrier work far better.
+
 
 
 # Drift Tires
