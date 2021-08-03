@@ -41,6 +41,7 @@ If you want your wood to last longer in the rain i recommend to paint it.
 ### Steering
 You really should change the front tires, the original ones have no grip and understeer as hell. Also they have no bearings, which lets them overheat because you are not a kid anymore. I took the ones from Decathlon with 175mm in diameter. Those with a 8mm Screw and a piece of steel pipe (8mm Inner, 10mm Outer) as an adapter to the original wheel carrier work far better.
 If the lowest part of your steering gets loose and the "thread" in the bobbycar wears out, you can screw a small piece of wood to the inside.
+I recommend you to drill a new hole about 50mm forewards of the original hole in the top of the bobbycar for the steering shaft. By that you will have much more room on the car. Fortunately you can use the old hole for the on/off switch.
 
 
 
