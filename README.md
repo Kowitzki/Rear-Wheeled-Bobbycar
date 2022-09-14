@@ -70,9 +70,3 @@ We have a Telegram Group for the Bobbycars, get in there, maybe someone will hel
 - Do not drive on public streets
 - Use a deadman switch for driving
 - Think about what you want to do
-
-
-
-# Beer
-If you like my effort, i would appreciate if you get me a beer ;)
-www.paypal.me/kowitzki/2.00
